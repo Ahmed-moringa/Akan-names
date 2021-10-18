@@ -5,8 +5,9 @@ var akan = function(year, month, day, gender) {
 
     //array of female names
     var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
-    var day= new Date(year, --month, dau);
-    if (g === "Female") {
+    
+    var day= new Date(year, --month, day);
+    if (gender === "Female") {
         return day && femaleNames[d.getDay()];
     } else {
         return day && maleNames[d.getDay()];
