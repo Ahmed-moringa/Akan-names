@@ -1,21 +1,21 @@
 # Akan Names
 
-This is my portfolio webpage for all the projects I've done. Kindly explore and leave any feedback!
+This is my webpage for all the projects I've done. Kindly explore and leave any feedback!
 
-[![Portfolio-capture.png](https://i.postimg.cc/Gh6n4zYb/Portfolio-capture.png)](https://postimg.cc/nCKP540W)
+
 
 ## Technologies Used
 
 - HTML
 - CSS (Bootstrap)
-- Javascript
+- Javascript (Jquery)
 - Markdown
 
 
 ##### Setup Instructions and Installation
 
-- Clone this repository to a location in your file system. 'https://github.com/Ahmed-moringa/Portfolio.git'
-- Open terminal command line then navigate to the root folder of the application.'cd Portfolio'
+- Clone this repository to a location in your file system. https://github.com/Ahmed-moringa/Akan-names.git
+- Open terminal command line then navigate to the root folder of the application.'cd Akan-names'
 - Open 'index.html' on your Browser.
 
 
