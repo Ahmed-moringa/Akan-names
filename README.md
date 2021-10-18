@@ -1,6 +1,6 @@
 # Akan Names
 
-This is my webpage for all the projects I've done. Kindly explore and leave any feedback!
+This a web application named Akan names. Akan names main purpose is to take a user's date of birth and gender. Convert that data to a Ghanian name from a list of possible names.
 
 
 
@@ -8,7 +8,7 @@ This is my webpage for all the projects I've done. Kindly explore and leave any 
 
 - HTML
 - CSS (Bootstrap)
-- Javascript (Jquery)
+- Javascript 
 - Markdown
 
 
@@ -32,6 +32,17 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
 
+## BDD
+-Title: Birth date converts to Akan names
+
+- As a user,
+- I want to find out the day of the week I was born,
+- so that i can find out my Akan name.
+
+
+## Contact
+- Ahmed Mohamed: ahmed.mohamed@student.moringaschool.com
+- Live Link: https://github.com/Ahmed-moringa/Akan-names.git
 
 ## Known Bugs
 
